@@ -79,57 +79,52 @@
 
 <!-- Azure Solutions Architect Expert (Credly found) -->
 <a href="https://www.credly.com/badges/cce1b6b8-2546-43cd-91f7-78232199f5f0" title="Azure Solutions Architect Expert">
-  <img src="https://images.credly.com/size/80x80/images/cce1b6b8-2546-43cd-91f7-78232199f5f0/image.png" alt="Azure Solutions Architect Expert" width="80" height="80">
+  <img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Azure Solutions Architect Expert" width="80" height="80">
 </a>
 
 <!-- Azure Virtual Desktop Specialty (placeholder) -->
-<a href="PLACEHOLDER_LINK_URL" title="Azure Virtual Desktop Specialty">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Azure Virtual Desktop Specialty" width="80" height="80">
+<a href="https://www.credly.com/earner/earned/badge/113e88ef-df49-4c0a-9af3-e04b104bbb07" title="Azure Virtual Desktop Specialty">
+  <img src="https://images.credly.com/size/340x340/images/ea009208-e2d6-432e-bbf6-d34d28b0835f/azure-virtual-desktop-specialty-600x600.png" alt="Azure Virtual Desktop Specialty" width="80" height="80">
 </a>
 
 <!-- Identity & Access Administrator Associate (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="Identity and Access Administrator Associate">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Identity and Access Administrator Associate" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png" alt="Identity and Access Administrator Associate" width="80" height="80">
 </a>
 
 <!-- Microsoft 365 Administrator Expert (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="Microsoft 365 Administrator Expert (Enterprise Admin)">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Microsoft 365 Administrator Expert" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png" alt="Microsoft 365 Administrator Expert" width="80" height="80">
 </a>
 
 <!-- Microsoft 365 Security Admin (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="Microsoft 365 Certified: Security Administrator Associate">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Microsoft 365 Certified: Security Administrator Associate" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png" alt="Microsoft 365 Certified: Security Administrator Associate" width="80" height="80">
 </a>
 
 <!-- Microsoft Certified Trainer (MCT) (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="Microsoft Certified Trainer (MCT)">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Microsoft Certified Trainer (since 2012)" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png" alt="Microsoft Certified Trainer (since 2012)" width="80" height="80">
 </a>
 
 <!-- MCTS SharePoint 2010 App Dev (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="Microsoft Certified Technology Specialist: SharePoint 2010 App Dev">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="MCTS SharePoint 2010 App Dev" width="80" height="80">
-</a>
-
-<!-- MCP (placeholder) -->
-<a href="PLACEHOLDER_LINK_URL" title="Microsoft Certified Professional">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Microsoft Certified Professional" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/651d1280-a128-4c4e-b3eb-4db60b212efe/MOS_Sharepoint.png" alt="MCTS SharePoint 2010 App Dev" width="80" height="80">
 </a>
 
 <!-- MS-100 (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="MS-100: Microsoft 365 Identity and Services">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="MS-100: Microsoft 365 Identity and Services" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/0c7981d8-e5c6-44c9-8bd6-563664c609cd/exam-ms100-600x600.png" alt="MS-100: Microsoft 365 Identity and Services" width="80" height="80">
 </a>
 
 <!-- MS-101 (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="MS-101: Microsoft 365 Mobility and Security">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="MS-101: Microsoft 365 Mobility and Security" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/f5aaf5dc-9ef4-4ecd-8886-a68c83e32fc5/exam-ms100_1-600x600.png" alt="MS-101: Microsoft 365 Mobility and Security" width="80" height="80">
 </a>
 
 <!-- AZ-305 (placeholder if not available) -->
 <a href="PLACEHOLDER_LINK_URL" title="AZ-305: Designing Microsoft Azure Infrastructure">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="AZ-305: Designing Microsoft Azure Infrastructure" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png" alt="AZ-305: Designing Microsoft Azure Infrastructure" width="80" height="80">
 </a>
 
 ---
@@ -138,27 +133,27 @@
 
 <!-- AWS Certified Solutions Architect – Associate (Credly org page exists — image placeholder) -->
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate" title="AWS Certified Solutions Architect – Associate">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="AWS Certified Solutions Architect – Associate" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80">
 </a>
 
 <!-- AWS Certified SysOps Administrator – Associate (Credly org page exists) -->
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-sysops-administrator-associate" title="AWS Certified SysOps Administrator – Associate">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="AWS Certified SysOps Administrator – Associate" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="80" height="80">
 </a>
 
 <!-- AWS Certified Cloud Practitioner (Credly org page exists) -->
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" title="AWS Certified Cloud Practitioner">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="AWS Certified Cloud Practitioner" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80">
 </a>
 
 <!-- AWS Partner: Technical Accredited (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="AWS Partner: Technical Accredited">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="AWS Partner: Technical Accredited" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/8f006312-3154-45bf-a845-4a043641e83c/blob" alt="AWS Partner: Technical Accredited" width="80" height="80">
 </a>
 
 <!-- AWS Well-Architected Proficient (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="AWS Well-Architected Proficient">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="AWS Well-Architected Proficient" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="AWS Well-Architected Proficient" width="80" height="80">
 </a>
 
 ---
