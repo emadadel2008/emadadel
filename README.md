@@ -64,7 +64,7 @@
 
 <!-- Azure Administrator Associate (Credly found) -->
 <a href="https://www.credly.com/badges/20f5b3b9-6463-40b5-bc69-f552a7a07309" title="Azure Administrator Associate">
-  <img src="https://images.credly.com/size/80x80/images/20f5b3b9-6463-40b5-bc69-f552a7a07309/image.png" alt="Azure Administrator Associate" width="80" height="80">
+  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" width="80" height="80">
 </a>
 
 <!-- Azure Network Engineer Associate (Credly found) -->
