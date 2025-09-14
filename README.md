@@ -69,7 +69,7 @@
 
 <!-- Azure Network Engineer Associate (Credly found) -->
 <a href="https://www.credly.com/badges/e0dcf8e3-3c5b-4834-842b-b61fbc5d196a" title="Azure Network Engineer Associate">
-  <img src="https://images.credly.com/size/80x80/images/e0dcf8e3-3c5b-4834-842b-b61fbc5d196a/image.png" alt="Azure Network Engineer Associate" width="80" height="80">
+  <img src="https://images.credly.com/size/340x340/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png" alt="Azure Network Engineer Associate" width="80" height="80">
 </a>
 
 <!-- Azure Database Administrator Associate (Credly found) -->
