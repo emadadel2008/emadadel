@@ -162,33 +162,10 @@
 
 <!-- GCP Professional Cloud Architect (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="Professional Cloud Architect">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Professional Cloud Architect" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Professional Cloud Architect" width="80" height="80">
 </a>
 
-<!-- GCP Load Balancing Skill Badge (placeholder) -->
-<a href="PLACEHOLDER_LINK_URL" title="Implement Load Balancing on Compute Engine (Skill Badge)">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Implement Load Balancing on Compute Engine (Skill Badge)" width="80" height="80">
-</a>
 
-<!-- GCP App Dev Skill Badge (placeholder) -->
-<a href="PLACEHOLDER_LINK_URL" title="Set Up an App Dev Environment on Google Cloud (Skill Badge)">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Set Up an App Dev Environment on Google Cloud (Skill Badge)" width="80" height="80">
-</a>
-
-<!-- GCP Terraform Skill Badge (placeholder) -->
-<a href="PLACEHOLDER_LINK_URL" title="Build Infrastructure with Terraform on Google Cloud (Skill Badge)">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Build Infrastructure with Terraform on Google Cloud (Skill Badge)" width="80" height="80">
-</a>
-
-<!-- GCP GKE Skill Badge (placeholder) -->
-<a href="PLACEHOLDER_LINK_URL" title="Optimize Costs for Google Kubernetes Engine (Skill Badge)">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Optimize Costs for Google Kubernetes Engine (Skill Badge)" width="80" height="80">
-</a>
-
-<!-- GCP Network Skill Badge (placeholder) -->
-<a href="PLACEHOLDER_LINK_URL" title="Develop Your Google Cloud Network (Skill Badge)">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Develop Your Google Cloud Network (Skill Badge)" width="80" height="80">
-</a>
 
 ---
 
@@ -196,22 +173,18 @@
 
 <!-- ISC2 Certified in Cybersecurity (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="Certified in Cybersecurity (CC) – ISC2">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Certified in Cybersecurity (CC) – ISC2" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/2859c37a-015b-40a6-b570-4bdd7e849b05/image.png" alt="Certified in Cybersecurity (CC) – ISC2" width="80" height="80">
 </a>
 
-<!-- ISC2 Candidate (placeholder) -->
-<a href="PLACEHOLDER_LINK_URL" title="ISC2 Candidate">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="ISC2 Candidate" width="80" height="80">
-</a>
 
 <!-- TOGAF Foundation (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="TOGAF® Enterprise Architecture Foundation – The Open Group">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="TOGAF Foundation" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/50b366b1-43d9-4b09-847d-761a6268fd5c/image.png" alt="TOGAF Foundation" width="80" height="80">
 </a>
 
 <!-- Copilot for Microsoft 365 Security Champion – FY24 (placeholder) -->
 <a href="PLACEHOLDER_LINK_URL" title="Copilot for Microsoft 365 Security Champion – FY24">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Copilot for Microsoft 365 Security Champion – FY24" width="80" height="80">
+  <img src="https://images.credly.com/size/680x680/images/4090cbd5-0c09-44b5-a76b-b7322fdf2f8e/image.png" alt="Copilot for Microsoft 365 Security Champion – FY24" width="80" height="80">
 </a>
 
 
