@@ -11,18 +11,24 @@
   <div>
   </div>
   <a href="https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010"><img src="https://github.com/michaelmsonne/michaelmsonne/assets/49366751/15b969a0-e7b6-43f1-84fa-df37d160e065" alt="Microsoft MVP"/></a>
-</div>
+
+<a href="https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010">
+  <img src="https://www.mctcommunity.org/wp-content/uploads/2024/09/MCT-badge-regional-lead_no_year.png" 
+       alt="Microsoft MCT" 
+       width="100" 
+       height="100"/>
+</a></div>
 </p>
 
 ---
 
 ## 😎 About Me  
 - ☁️ Multi-Cloud Solution Architect (Azure, AWS, Alibaba Cloud).  
-- 👨‍🏫 Microsoft Certified Trainer (MCT).  
+- 👨‍🏫 Microsoft Certified Trainer (MCT) since 2012 .  
 - 🚀 16+ years of experience in IT.  
-- 🔭 Currently working at **KlayyTech as Managed Services Lead**.  
+- 🔭 Currently working at Senior Cloud Architect at VOIS   
 - 🛠️ Specialized in Cloud Strategy, Migration, and Security.  
-- 👥 Founder of **Egypt Azure Community**.  
+- 👥 Founder of **Egypt Azure Community** and SharePoint Egypt Community.  
 - 🎥 Content Creator: Azure, Microsoft 365, Cloud Architecture.  
 
 ---
