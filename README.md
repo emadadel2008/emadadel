@@ -197,7 +197,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emadadel2008&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+------
 
 ## 🛠️ Languages & Tools  
 <p align="left"> 
