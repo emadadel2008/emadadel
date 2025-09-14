@@ -74,7 +74,7 @@
 
 <!-- Azure Database Administrator Associate (Credly found) -->
 <a href="https://www.credly.com/badges/d9e59b27-eef0-4546-92a6-d07cf6ea72d9" title="Azure Database Administrator Associate">
-  <img src="https://images.credly.com/size/80x80/images/d9e59b27-eef0-4546-92a6-d07cf6ea72d9/image.png" alt="Azure Database Administrator Associate" width="80" height="80">
+  <img src="https://images.credly.com/size/340x340/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/azure-database-administrator-associate-600x600.png" alt="Azure Database Administrator Associate" width="80" height="80">
 </a>
 
 <!-- Azure Solutions Architect Expert (Credly found) -->
